@@ -1,4 +1,5 @@
----
+---joshua verdin
+software april 5th 2024
 # translation notes are after "#" in this section
 
 title: "How WAI Develops Accessibility Standards through the W3C Process: Milestones and Opportunities to Contribute"
